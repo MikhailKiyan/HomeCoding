@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LuxoftHomeCodingAssignment": {
+      "commandName": "Project",
+      "commandLineArgs": "--filePath c:\\Users\\MKiyan\\Downloads\\test1.txt --dataType textReverse"
+    }
+  }
+}
